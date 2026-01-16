@@ -1,2 +1,43 @@
 # Power-Bi-
 this is power bi end-to-end project
+
+An end-to-end sales analysis project using SQL, Excel, and Power BI
+# 🍕 Pizza Sales Dashboard
+
+## 📊 Overview
+This project combines **SQL, Excel, and Power BI** to analyze pizza sales.  
+The goal is to track key performance indicators (KPIs), identify customer preferences, and highlight top- and bottom-performing pizzas using dummy sales data.
+
+## 🧾 Dataset
+- **Type:** Dummy pizza sales dataset  
+- **Contains fields like:** Order ID, Pizza Name, Category, Date, Revenue, Quantity, Size  
+
+## 🛠 Tools Used
+- Microsoft SQL Server Management Studio (SSMS) – for queries and analysis  
+- Excel – for preprocessing and initial exploration  
+- Power BI – for building interactive dashboards  
+
+## 🔍 Key Insights
+- 📈 **Top 5 Pizzas by Revenue**  
+- 🛒 **Top 5 Pizzas by Total Orders**  
+- 📉 **Bottom 5 Pizzas by Revenue**  
+- 📦 **Bottom 5 Pizzas by Total Orders**  
+- 📅 Sales trend over time
+- 
+## Tools Used
+- **SQL Server Management Studio (SSMS)** – to write queries and clean data.
+- **Power BI** – to build an interactive dashboard.
+- **Excel** – for data cleaning, analysis, and dashboard creation  
+
+## 🚀 How It Works
+1. **SQL queries** were used in SSMS to analyze and summarize the dataset.  
+2. The dataset was imported into **Excel** for further analysis and dashboard creation.  
+3. An **interactive version** of the dashboard was built in **Power BI**, combining visuals and KPIs.  
+
+## ✅ Outcome
+This dashboard helps stakeholders:  
+- Understand customer buying patterns  
+- Track best and worst-performing pizzas  
+- Make data-driven business decisions  
+
+-
